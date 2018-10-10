@@ -1,0 +1,7 @@
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csprojAssemblyReference.cache
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb

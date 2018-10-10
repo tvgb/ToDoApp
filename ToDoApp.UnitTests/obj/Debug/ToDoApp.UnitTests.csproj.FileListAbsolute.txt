@@ -1,0 +1,17 @@
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\obj\Debug\ToDoApp.UnitTests.csprojAssemblyReference.cache
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\obj\Debug\ToDoApp.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\ToDoApp.UnitTests.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\ToDoApp.UnitTests.pdb
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\ToDoApp.exe
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\ToDoApp.pdb
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\ToDoApp.exe.config
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\obj\Debug\ToDoApp.UnitTests.csproj.CopyComplete
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\obj\Debug\ToDoApp.UnitTests.dll
+C:\Users\tvgb\source\repos\ToDoApp\ToDoApp.UnitTests\obj\Debug\ToDoApp.UnitTests.pdb
